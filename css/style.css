@@ -60,7 +60,7 @@ img {
     padding-bottom: 24px;
 }
 
-.studio-adres {
+.adres {
     font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -69,8 +69,8 @@ img {
     gap: 40px;
 }
 
-.studio-adres:hover,
-.studio-adres:focus {
+.adres:hover,
+.adres:focus {
     color: #404bbf
 }
 

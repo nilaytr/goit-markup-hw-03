@@ -12,6 +12,11 @@ img {
     display: block;
 }
 
+.container {
+    display: flex;
+    width: 1158px;
+}
+
 .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;

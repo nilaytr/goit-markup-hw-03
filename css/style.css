@@ -125,9 +125,10 @@ padding-bottom: 120px;
 .second-ul {
     display: flex;
     gap: 24px;
+    list-style-type: none;
 }
 
-.second-li{
+.second-li {
     width: calc((100% - 72px) / 4);
 } 
 

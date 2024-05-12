@@ -240,6 +240,7 @@ padding-bottom: 120px;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
+    list-style-type: none;
 }
 
 .fourth-list {
@@ -282,6 +283,7 @@ padding-bottom: 120px;
 .footer-logo {
     display: inline-block;
     margin-bottom: 16px;
+    list-style-type: none;
 }
 
 .footer-logo-span {

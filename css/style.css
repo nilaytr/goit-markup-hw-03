@@ -79,6 +79,8 @@ img {
 
 .first-section {
 background-color: #2e2f42;
+padding-top: 188px;
+padding-bottom: 188px;
 }
 
 .first-title {
@@ -87,6 +89,7 @@ background-color: #2e2f42;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
+    max-width: 496px;
 }
 
 .buton {

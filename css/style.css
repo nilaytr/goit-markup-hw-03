@@ -30,6 +30,10 @@ h1, h2, h3, h4, h5, h6, p {
     margin: 0;
 }
 
+a {
+  text-decoration: none;
+}
+
 .container {
     display: flex;
     width: 1158px;
@@ -283,7 +287,6 @@ padding-bottom: 120px;
 .footer-logo {
     display: inline-block;
     margin-bottom: 16px;
-    list-style-type: none;
 }
 
 .footer-logo-span {

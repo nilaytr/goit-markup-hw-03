@@ -128,7 +128,7 @@ padding-bottom: 120px;
     list-style-type: none;
 }
 
-.second-li {
+#second-li {
     width: calc((100% - 72px) / 4);
 } 
 

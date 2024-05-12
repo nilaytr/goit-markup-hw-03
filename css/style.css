@@ -234,7 +234,7 @@ padding-bottom: 120px;
 }
 
 .fourth-list {
-    width: calc((100% - 48px) / 3)
+    width: calc((100% - 48px) / 3);
 }
 
 .list-portfolio {

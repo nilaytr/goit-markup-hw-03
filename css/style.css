@@ -113,6 +113,11 @@ padding-bottom: 188px;
     cursor: pointer;
 }
 
+.second-section {
+padding-top: 120px;
+padding-bottom: 120px;
+}
+
 .second-title {
     font-weight: 500;
     font-size: 20px;

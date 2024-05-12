@@ -148,7 +148,7 @@ padding-bottom: 120px;
 .third-section {
     background-color: #F4F4FD;
     padding-top: 120px;
-    padding-bottom: 120;
+    padding-bottom: 120px;
 }
 
 .team-title {
@@ -161,8 +161,15 @@ padding-bottom: 120px;
     margin-bottom: 72px;
 }
 
+.third-ul {
+    display: flex;
+    gap: 24px;
+}
+
 .third-list {
     background-color: #FFFFFF;
+    width: calc((100% - 72px) / 4)
+    border-radius: 0px 0px 4px 4px;
 }
 
 .third-title {

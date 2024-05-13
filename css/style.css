@@ -113,6 +113,7 @@ padding-bottom: 188px;
     color: #ffffff;
     max-width: 496px;
     flex-direction: column;
+    list-style-type: none;
 }
 
 .buton {

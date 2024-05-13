@@ -290,6 +290,7 @@ padding-bottom: 120px;
 
 .footer-logo {
     display: inline-block;
+    flex-direction: column;
     margin-bottom: 16px;
 }
 

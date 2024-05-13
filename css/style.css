@@ -274,14 +274,6 @@ padding-bottom: 120px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.container {
-    display: flex;
-    flex-direction: column;
-    width: 1158px;
-    margin: 0 auto;
-    padding-left: 15px;
-    padding-right: 15px;
-}
 
 .footer {
     background-color: #2e2f42;
@@ -294,6 +286,10 @@ padding-bottom: 120px;
     color: #f4f4fd;
     letter-spacing: 0.02em;
     max-width: 264px;
+}
+
+.container {
+    flex-direction: column;
 }
 
 .footer-logo {

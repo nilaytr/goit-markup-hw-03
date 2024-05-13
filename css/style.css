@@ -112,6 +112,7 @@ padding-bottom: 188px;
     letter-spacing: 0.02em;
     color: #ffffff;
     max-width: 496px;
+    flex-direction: column;
 }
 
 .buton {
@@ -190,6 +191,7 @@ padding-bottom: 120px;
     text-transform: capitalize;
     color: #2e2f42;
     margin-bottom: 72px;
+    flex-direction: column;
   
   ul {
   list-style-type: none;
@@ -251,7 +253,7 @@ a {
     text-transform: capitalize;
     color: #2e2f42;
     margin-bottom: 72px;
-    flex-direction: column
+    flex-direction: column;
   
   ul {
   list-style-type: none;

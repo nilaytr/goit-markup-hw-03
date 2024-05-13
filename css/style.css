@@ -288,16 +288,13 @@ padding-bottom: 120px;
     max-width: 264px;
 }
 
-.container {
-    flex-direction: column;
-}
-
 .footer-logo {
     display: inline-block;
     margin-bottom: 16px;
 }
 
 .footer-logo-span {
-  color: #f4f4fd;
+  color: #F4F4FD;
+  display: inline-block;
 }
 

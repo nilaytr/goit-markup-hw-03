@@ -122,6 +122,7 @@ padding-bottom: 188px;
     max-width: 496px;
     flex-direction: column;
     list-style-type: none;
+    margin: auto;
 }
 
 .buton {

@@ -44,6 +44,11 @@ a {
     padding-right: 15px;
 }
 
+#header-container {
+  display: flex;
+  flex-direction: row;
+}
+
 .navbar {
     display: flex;
     align-items: center;

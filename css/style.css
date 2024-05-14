@@ -37,7 +37,7 @@ a {
 
 .container {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     width: 1158px;
     margin: 0 auto;
     padding-left: 15px;
@@ -47,6 +47,7 @@ a {
 .navbar {
     display: flex;
     align-items: center;
+    margin: auto;
 }
 
 .logo {
